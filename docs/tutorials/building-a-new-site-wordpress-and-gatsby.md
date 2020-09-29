@@ -363,4 +363,4 @@ You can apply the same procedure to calling and creating pages, custom post type
 -  :medal_sports: [Usage with popular WPGraphQL extensions](../usage-with-popular-wp-graphql-extensions.md)
 - :hammer_and_wrench: [Debugging and troubleshooting](../debugging-and-troubleshooting.md)
 - :national_park: [Community and Support](../community-and-support.md)
-- :point_left: [Back to README.md](../README.md)
+- :point_left: [Back to README.md](../../README.md)
